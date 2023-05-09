@@ -1,0 +1,4 @@
+- Student Ivanov received 5 by subject Mathematics.
+- Student Petrova received 4 by subject Computer science.
+- Student Krasnov received 5 by subject Physics.
+
